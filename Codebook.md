@@ -13,4 +13,4 @@
 ### setsd: the sd of train/test set
 
 ## Work on raw data
-### Get the mean and sd for each measurement variable from the 128 measurements, the final tidy data is the average of the mean and sd of each subject and each activity.
+### Get the mean and sd for each measurement variable from 128 measurements for the same variable for each record, the final tidy data is the average of the mean and sd of each subject and each activity.
