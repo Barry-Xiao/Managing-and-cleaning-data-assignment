@@ -8,7 +8,7 @@
 ### bodyaccxsd: the standard deviation of the body acceleration signal from X axixobtained by subtracting the gravity from the total acceleration.
 ### bodygryoxmean: the mean of the angular velocity vector measured by the gyroscope for each window sample.(units: radians/second)
 ### bodygryoxsd: the standard deviation of the angular velocity vector measured by the gyroscope for each window sample.(units: radians/second)
-#### substituting "x" in above six variable names with "y" and "z" are the variable names for the same measurements from smartphone accelerometer Y axis and Z axis
+#### note:substituting "x" in above six variable names with "y" and "z" are the variable names for the same measurements from smartphone accelerometer Y axis and Z axis
 ### setmean: the mean of train/test set
 ### setsd: the sd of train/test set
 
